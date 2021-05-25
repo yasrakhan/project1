@@ -1,0 +1,51 @@
+body
+{
+    background-image: url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+    border-top-color: chocolate;
+    border-bottom-color: chocolate;
+    border-left-color: greenyellow;
+    border-right-color: greenyellow;
+}
+
+#heading
+{
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px;
+    font-size: 30px;
+ }
+h3
+{
+    display: inline-block;
+    font-size: 25px;
+    font-family: Kristen ITC;
+    background-color: coral;
+    color: white;
+}
+span
+{
+    color: black;   
+}
+a
+{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
